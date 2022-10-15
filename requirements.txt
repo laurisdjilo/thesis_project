@@ -1,3 +1,7 @@
 pandas
 seaborn
 swifter
+scipy
+scikit-learn
+networkx
+torch
